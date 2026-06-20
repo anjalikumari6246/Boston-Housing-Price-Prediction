@@ -82,7 +82,6 @@ Boston-Housing-Price-Prediction/
 ├── feature_descriptions.txt
 ├── model_results.txt
 ├── data_housing.csv
-├── model.joblib
 └── README.md
 ```
 
