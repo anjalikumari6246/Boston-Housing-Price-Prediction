@@ -45,6 +45,14 @@ The objective of this project is to analyze factors affecting housing prices and
 7. Performance Evaluation
 8. Model Serialization
 
+## 📊 Exploratory Data Analysis
+
+### Feature Correlation Heatmap
+
+![Correlation Heatmap](Heatmap.png)
+
+The heatmap visualizes relationships between dataset features and helps identify factors that strongly influence housing prices.
+
 ## 📈 Models Implemented
 
 | Model                   | Purpose                                       |
